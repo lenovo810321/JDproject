@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jd.iml" filepath="$PROJECT_DIR$/jd.iml" />
+      <module fileurl="file://F:/1804/Spark大型项目实战：电商用户行为分析大数据平台/源代码/spark-project/spark-project.iml" filepath="F:/1804/Spark大型项目实战：电商用户行为分析大数据平台/源代码/spark-project/spark-project.iml" />
+    </modules>
+  </component>
+</project>
